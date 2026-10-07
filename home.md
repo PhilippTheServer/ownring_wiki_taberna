@@ -22,6 +22,10 @@ The Goal is to provide the necessary Skeleton so that you can build your own UI 
 whatever way you prefer. Maybe in PHP or Angular or if you are really crazy in C. No
 opinion here.
 
+> **Running a shop on this stack?** The [OwnRing Shop](/OwnRing-Shop) page
+> documents a concrete deployment: the OwnRing R02 ring, Stripe **and** PayPal
+> payments, and the German legal setup.
+
 ## The repositories
 
 The project is split across four repositories rather than one:
